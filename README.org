@@ -1,0 +1,31 @@
+#+STARTUP: indent
+#+LANGUAGE: en
+#+TITLE: Fabio Berton - @fbertux
+#+AUTHOR: Fabio Berton
+#+EMAIL: fbberton@gmail.com
+
+Hi, I'm Fabio, I've been working for +4 years with Board Support Package (BSP)
+integration using the Yocto Project/Open Embedded and with Linux Kernel and
+U-Boot customization at [[https://github.com/ossystems][O.S. Systems]].
+
+** Here are some projects I'm currently working on
+
+*** [[https://github.com/Freescale/meta-freescale][meta-freescale]]
+*** [[https://github.com/Freescale/meta-freescale-3rdparty][meta-freescale-3rdparty]]
+*** [[https://github.com/UpdateHub/meta-updatehub][meta-updatehub]]
+
+** Some of my open source contributions
+
+*** [[https://patches.openembedded.org/project/oe-core/patches/?submitter=11927&state=*&q=&archive=both&delegate=][OpenEmbedded Core]]
+*** [[https://cutt.ly/1yRsIu1][Meta OpenEmbedded Layers]]
+*** [[https://cutt.ly/NyRdqHC][meta-freescale]]
+*** [[ https://cutt.ly/YyRdiV5][meta-freescale-3rdparty]]
+
+** Get in touch
+
+*** Email: fbberton@gmail.com
+
+*** Linkedin: [[https://www.linkedin.com/in/fabioberton/][fabioberton]]
+
+
+
