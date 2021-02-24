@@ -19,7 +19,7 @@ U-Boot customization at [[https://github.com/ossystems][O.S. Systems]].
 *** [[https://patches.openembedded.org/project/oe-core/patches/?submitter=11927&state=*&q=&archive=both&delegate=][OpenEmbedded Core]]
 *** [[https://cutt.ly/1yRsIu1][Meta OpenEmbedded Layers]]
 *** [[https://cutt.ly/NyRdqHC][meta-freescale]]
-*** [[ https://cutt.ly/YyRdiV5][meta-freescale-3rdparty]]
+*** [[https://cutt.ly/YyRdiV5][meta-freescale-3rdparty]]
 
 ** Get in touch
 
